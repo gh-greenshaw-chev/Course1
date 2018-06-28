@@ -28,7 +28,7 @@ This should also result in:
 Hello World!
 in the IDLE window.
 
-​Variables
+Variables
 Variables can be thought of as labels to areas of computer memory, where you want to store some values, temporarily, When your program finishes, those variables and the areas of memory will be discarded. If you need to keep those values, we need to write them to a file or a database - this will be covered later.
 
 Variables and Types
