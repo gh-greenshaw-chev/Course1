@@ -7,7 +7,7 @@ The notable exception is the 'print' statement, which requires brackets, as in '
 
 It is possible to write Python programs (also known as scripts) using a simple text editor, such as Notepad in Windows or nano in Linux, however, when Python is installed, it usually comes with an Integrated Development Environment (or IDE), known as IDLE. Some of the examples in these lessons will demonstrated  using IDLE. You can try out simple Python statements interactively in IDLE or create a new file and save it. Python programs should normally be saved with the filename extension of '.py'.
 
-H1 Hello World H1
+<H1>Hello World</H1>
 Lets start with a single line program, that displays Hello World!
 Open up the IDLE editor, it can usually be started with 'Python' or 'Idle'.
 Enter:
