@@ -1,7 +1,7 @@
 # Python Course
 <h3>Lesson 1 - Versions of Python, Hello World, Variables (Numbers, Strings and Lists), Operators</h3>
 
-Versions
+<h4>Versions</h4>
 There are two main versions of Python, Version 2 and Version 3. We will be concentrating on Version 3, although most the statements will work on Python 2.
 The notable exception is the 'print' statement, which requires brackets, as in 'print("hello world")', in Python 3, but you can get away with 'print "hello world"' in Python 2.
 
