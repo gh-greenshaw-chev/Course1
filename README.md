@@ -1,5 +1,5 @@
 # Course
-Lesson 1 - Versions of Python, Hello World, Variables (Numbers, Strings and Lists), Operators
+<h3>Lesson 1 - Versions of Python, Hello World, Variables (Numbers, Strings and Lists), Operators</h3>
 
 Versions
 There are two main versions of Python, Version 2 and Version 3. We will be concentrating on Version 3, although most the statements will work on Python 2.
