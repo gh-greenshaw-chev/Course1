@@ -1,4 +1,4 @@
-# Course
+# Python Course
 <h3>Lesson 1 - Versions of Python, Hello World, Variables (Numbers, Strings and Lists), Operators</h3>
 
 Versions
